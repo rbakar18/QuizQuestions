@@ -1,5 +1,5 @@
 {
-	"quiz": [{
+	"quiz_one": [{
 			"id": 0,
 			"questionType": "multiple_choice",
 			"questionText": "Java is a(n) ______-oriented programming language",
